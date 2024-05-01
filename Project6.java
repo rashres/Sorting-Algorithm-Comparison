@@ -1,7 +1,3 @@
-// Rahul Shrestha
-// Project 6
-// COSC 20803
-
 //A program to compare five sorting algorithms: selection sort, insertion sort, heap sort, merge sort, and quick sort.
 
 import java.util.*;
